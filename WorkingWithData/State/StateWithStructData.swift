@@ -7,10 +7,6 @@
 
 import SwiftUI
 
-struct NameData {
-  var firstName: String = ""
-  var lastName: String = ""
-}
 
 struct StateWithStructData: View {
   @State private var nameData = NameData()

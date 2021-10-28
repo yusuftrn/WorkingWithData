@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		884EBE59272B302A004AD8DE /* CarInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884EBE58272B302A004AD8DE /* CarInfo.swift */; };
+		884EBE5B272B3201004AD8DE /* ClassData_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884EBE5A272B3201004AD8DE /* ClassData_Solution.swift */; };
 		88D605CF272ACBC1003D5FE9 /* WorkingWithDataApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605CE272ACBC1003D5FE9 /* WorkingWithDataApp.swift */; };
 		88D605D1272ACBC1003D5FE9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605D0272ACBC1003D5FE9 /* ContentView.swift */; };
 		88D605D3272ACBC1003D5FE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88D605D2272ACBC1003D5FE9 /* Assets.xcassets */; };
@@ -18,9 +20,19 @@
 		88D605EB272AEDC7003D5FE9 /* StateWithStructData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605EA272AEDC7003D5FE9 /* StateWithStructData.swift */; };
 		88D605ED272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605EC272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift */; };
 		88D605EF272AF457003D5FE9 /* StateWithClassData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605EE272AF457003D5FE9 /* StateWithClassData.swift */; };
+		88D605F2272B044D003D5FE9 /* ExtractingSubviews_Befores.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605F1272B044D003D5FE9 /* ExtractingSubviews_Befores.swift */; };
+		88D605F5272B047B003D5FE9 /* NameData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605F4272B047B003D5FE9 /* NameData.swift */; };
+		88D605F7272B0C1E003D5FE9 /* EditNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605F6272B0C1E003D5FE9 /* EditNameView.swift */; };
+		88D605F9272B0DDD003D5FE9 /* ExtractingSubviews_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605F8272B0DDD003D5FE9 /* ExtractingSubviews_Solution.swift */; };
+		88D605FC272B120D003D5FE9 /* BindingWithList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605FB272B120D003D5FE9 /* BindingWithList.swift */; };
+		88D605FE272B121C003D5FE9 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605FD272B121C003D5FE9 /* Person.swift */; };
+		88D60600272B12D1003D5FE9 /* EditPersonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605FF272B12D1003D5FE9 /* EditPersonView.swift */; };
+		88D60605272B1A7D003D5FE9 /* BindingWithLazyVStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D60604272B1A7D003D5FE9 /* BindingWithLazyVStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		884EBE58272B302A004AD8DE /* CarInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarInfo.swift; sourceTree = "<group>"; };
+		884EBE5A272B3201004AD8DE /* ClassData_Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassData_Solution.swift; sourceTree = "<group>"; };
 		88D605CB272ACBC1003D5FE9 /* WorkingWithData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorkingWithData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88D605CE272ACBC1003D5FE9 /* WorkingWithDataApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkingWithDataApp.swift; sourceTree = "<group>"; };
 		88D605D0272ACBC1003D5FE9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,6 +45,14 @@
 		88D605EA272AEDC7003D5FE9 /* StateWithStructData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateWithStructData.swift; sourceTree = "<group>"; };
 		88D605EC272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBindingWithOtherViews.swift; sourceTree = "<group>"; };
 		88D605EE272AF457003D5FE9 /* StateWithClassData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateWithClassData.swift; sourceTree = "<group>"; };
+		88D605F1272B044D003D5FE9 /* ExtractingSubviews_Befores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractingSubviews_Befores.swift; sourceTree = "<group>"; };
+		88D605F4272B047B003D5FE9 /* NameData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameData.swift; sourceTree = "<group>"; };
+		88D605F6272B0C1E003D5FE9 /* EditNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditNameView.swift; sourceTree = "<group>"; };
+		88D605F8272B0DDD003D5FE9 /* ExtractingSubviews_Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractingSubviews_Solution.swift; sourceTree = "<group>"; };
+		88D605FB272B120D003D5FE9 /* BindingWithList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingWithList.swift; sourceTree = "<group>"; };
+		88D605FD272B121C003D5FE9 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		88D605FF272B12D1003D5FE9 /* EditPersonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditPersonView.swift; sourceTree = "<group>"; };
+		88D60604272B1A7D003D5FE9 /* BindingWithLazyVStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingWithLazyVStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +66,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		884EBE57272B3020004AD8DE /* ObservableObject */ = {
+			isa = PBXGroup;
+			children = (
+				884EBE58272B302A004AD8DE /* CarInfo.swift */,
+				884EBE5A272B3201004AD8DE /* ClassData_Solution.swift */,
+			);
+			path = ObservableObject;
+			sourceTree = "<group>";
+		};
 		88D605C2272ACBC1003D5FE9 = {
 			isa = PBXGroup;
 			children = (
@@ -65,8 +94,11 @@
 		88D605CD272ACBC1003D5FE9 /* WorkingWithData */ = {
 			isa = PBXGroup;
 			children = (
+				884EBE57272B3020004AD8DE /* ObservableObject */,
+				88D605F0272B040E003D5FE9 /* Binding */,
 				88D605E5272ADA65003D5FE9 /* State */,
 				88D605DD272ACBD5003D5FE9 /* CoreViews */,
+				88D605F3272B0471003D5FE9 /* CoreModels */,
 				88D605DC272ACBCF003D5FE9 /* App */,
 				88D605D2272ACBC1003D5FE9 /* Assets.xcassets */,
 				88D605D4272ACBC1003D5FE9 /* Preview Content */,
@@ -110,6 +142,60 @@
 				88D605EE272AF457003D5FE9 /* StateWithClassData.swift */,
 			);
 			path = State;
+			sourceTree = "<group>";
+		};
+		88D605F0272B040E003D5FE9 /* Binding */ = {
+			isa = PBXGroup;
+			children = (
+				88D60601272B1419003D5FE9 /* Problem */,
+				88D60602272B142F003D5FE9 /* Solution */,
+				88D605FA272B11FC003D5FE9 /* BindingWithList */,
+				88D60603272B1475003D5FE9 /* BindingWLazyVStack */,
+			);
+			path = Binding;
+			sourceTree = "<group>";
+		};
+		88D605F3272B0471003D5FE9 /* CoreModels */ = {
+			isa = PBXGroup;
+			children = (
+				88D605F4272B047B003D5FE9 /* NameData.swift */,
+			);
+			path = CoreModels;
+			sourceTree = "<group>";
+		};
+		88D605FA272B11FC003D5FE9 /* BindingWithList */ = {
+			isa = PBXGroup;
+			children = (
+				88D605FB272B120D003D5FE9 /* BindingWithList.swift */,
+				88D605FD272B121C003D5FE9 /* Person.swift */,
+				88D605FF272B12D1003D5FE9 /* EditPersonView.swift */,
+			);
+			path = BindingWithList;
+			sourceTree = "<group>";
+		};
+		88D60601272B1419003D5FE9 /* Problem */ = {
+			isa = PBXGroup;
+			children = (
+				88D605F1272B044D003D5FE9 /* ExtractingSubviews_Befores.swift */,
+			);
+			path = Problem;
+			sourceTree = "<group>";
+		};
+		88D60602272B142F003D5FE9 /* Solution */ = {
+			isa = PBXGroup;
+			children = (
+				88D605F6272B0C1E003D5FE9 /* EditNameView.swift */,
+				88D605F8272B0DDD003D5FE9 /* ExtractingSubviews_Solution.swift */,
+			);
+			path = Solution;
+			sourceTree = "<group>";
+		};
+		88D60603272B1475003D5FE9 /* BindingWLazyVStack */ = {
+			isa = PBXGroup;
+			children = (
+				88D60604272B1A7D003D5FE9 /* BindingWithLazyVStack.swift */,
+			);
+			path = BindingWLazyVStack;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -182,15 +268,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88D605FE272B121C003D5FE9 /* Person.swift in Sources */,
 				88D605D1272ACBC1003D5FE9 /* ContentView.swift in Sources */,
 				88D605EF272AF457003D5FE9 /* StateWithClassData.swift in Sources */,
+				88D605F9272B0DDD003D5FE9 /* ExtractingSubviews_Solution.swift in Sources */,
+				884EBE5B272B3201004AD8DE /* ClassData_Solution.swift in Sources */,
 				88D605E2272ACC47003D5FE9 /* HeaderView.swift in Sources */,
+				88D605F7272B0C1E003D5FE9 /* EditNameView.swift in Sources */,
+				88D605FC272B120D003D5FE9 /* BindingWithList.swift in Sources */,
+				88D60600272B12D1003D5FE9 /* EditPersonView.swift in Sources */,
 				88D605E7272ADA76003D5FE9 /* StructVariables.swift in Sources */,
+				88D605F2272B044D003D5FE9 /* ExtractingSubviews_Befores.swift in Sources */,
 				88D605E9272AE3C2003D5FE9 /* StateWithTextField.swift in Sources */,
 				88D605EB272AEDC7003D5FE9 /* StateWithStructData.swift in Sources */,
 				88D605CF272ACBC1003D5FE9 /* WorkingWithDataApp.swift in Sources */,
 				88D605ED272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift in Sources */,
+				88D60605272B1A7D003D5FE9 /* BindingWithLazyVStack.swift in Sources */,
 				88D605E4272ACC51003D5FE9 /* DescriptionView.swift in Sources */,
+				884EBE59272B302A004AD8DE /* CarInfo.swift in Sources */,
+				88D605F5272B047B003D5FE9 /* NameData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
