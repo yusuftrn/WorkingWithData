@@ -17,6 +17,7 @@
 		88D605E9272AE3C2003D5FE9 /* StateWithTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605E8272AE3C2003D5FE9 /* StateWithTextField.swift */; };
 		88D605EB272AEDC7003D5FE9 /* StateWithStructData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605EA272AEDC7003D5FE9 /* StateWithStructData.swift */; };
 		88D605ED272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605EC272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift */; };
+		88D605EF272AF457003D5FE9 /* StateWithClassData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605EE272AF457003D5FE9 /* StateWithClassData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		88D605E8272AE3C2003D5FE9 /* StateWithTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateWithTextField.swift; sourceTree = "<group>"; };
 		88D605EA272AEDC7003D5FE9 /* StateWithStructData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateWithStructData.swift; sourceTree = "<group>"; };
 		88D605EC272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBindingWithOtherViews.swift; sourceTree = "<group>"; };
+		88D605EE272AF457003D5FE9 /* StateWithClassData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateWithClassData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				88D605E8272AE3C2003D5FE9 /* StateWithTextField.swift */,
 				88D605EA272AEDC7003D5FE9 /* StateWithStructData.swift */,
 				88D605EC272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift */,
+				88D605EE272AF457003D5FE9 /* StateWithClassData.swift */,
 			);
 			path = State;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				88D605D1272ACBC1003D5FE9 /* ContentView.swift in Sources */,
+				88D605EF272AF457003D5FE9 /* StateWithClassData.swift in Sources */,
 				88D605E2272ACC47003D5FE9 /* HeaderView.swift in Sources */,
 				88D605E7272ADA76003D5FE9 /* StructVariables.swift in Sources */,
 				88D605E9272AE3C2003D5FE9 /* StateWithTextField.swift in Sources */,
