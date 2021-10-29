@@ -9,6 +9,26 @@
 /* Begin PBXBuildFile section */
 		884EBE59272B302A004AD8DE /* CarInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884EBE58272B302A004AD8DE /* CarInfo.swift */; };
 		884EBE5B272B3201004AD8DE /* ClassData_Solution.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884EBE5A272B3201004AD8DE /* ClassData_Solution.swift */; };
+		88B63AE0272C1348001BF14D /* StateObject_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63ADF272C1348001BF14D /* StateObject_Intro.swift */; };
+		88B63AE2272C1358001BF14D /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AE1272C1358001BF14D /* Car.swift */; };
+		88B63AE5272C1818001BF14D /* StateObject_WithPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AE4272C1818001BF14D /* StateObject_WithPicker.swift */; };
+		88B63AE7272C19D0001BF14D /* CarChoicesModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AE6272C19D0001BF14D /* CarChoicesModel.swift */; };
+		88B63AEB272C1FFD001BF14D /* WeatherForecast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AEA272C1FFD001BF14D /* WeatherForecast.swift */; };
+		88B63AED272C2065001BF14D /* ObservableObject_WithSubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AEC272C2065001BF14D /* ObservableObject_WithSubView.swift */; };
+		88B63AEF272C2182001BF14D /* ForecastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AEE272C2182001BF14D /* ForecastView.swift */; };
+		88B63AF2272C2F78001BF14D /* AppStorage_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AF1272C2F78001BF14D /* AppStorage_Intro.swift */; };
+		88B63AF4272C3234001BF14D /* AppStorage_Edit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AF3272C3234001BF14D /* AppStorage_Edit.swift */; };
+		88B63AF6272C3623001BF14D /* AppStorage_WhatCanBeStored.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AF5272C3623001BF14D /* AppStorage_WhatCanBeStored.swift */; };
+		88B63AF9272C386A001BF14D /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AF8272C386A001BF14D /* User.swift */; };
+		88B63AFB272C38E2001BF14D /* AppStorage_StoreStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AFA272C38E2001BF14D /* AppStorage_StoreStruct.swift */; };
+		88B63AFE272C40DE001BF14D /* SceneStorage_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AFD272C40DE001BF14D /* SceneStorage_Intro.swift */; };
+		88B63B00272C4157001BF14D /* SavingData_DataEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63AFF272C4157001BF14D /* SavingData_DataEntry.swift */; };
+		88B63B03272C60A7001BF14D /* NameInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63B02272C60A7001BF14D /* NameInfo.swift */; };
+		88B63B05272C60BA001BF14D /* EnvironmentObject_Intro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63B04272C60BA001BF14D /* EnvironmentObject_Intro.swift */; };
+		88B63B07272C619B001BF14D /* TabViewOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63B06272C619B001BF14D /* TabViewOne.swift */; };
+		88B63B09272C61A6001BF14D /* TabViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63B08272C61A6001BF14D /* TabViewTwo.swift */; };
+		88B63B0D272C6940001BF14D /* EnvironmentObject_GloballyAccessible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63B0C272C6940001BF14D /* EnvironmentObject_GloballyAccessible.swift */; };
+		88B63B0F272C694F001BF14D /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88B63B0E272C694F001BF14D /* UserModel.swift */; };
 		88D605CF272ACBC1003D5FE9 /* WorkingWithDataApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605CE272ACBC1003D5FE9 /* WorkingWithDataApp.swift */; };
 		88D605D1272ACBC1003D5FE9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88D605D0272ACBC1003D5FE9 /* ContentView.swift */; };
 		88D605D3272ACBC1003D5FE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88D605D2272ACBC1003D5FE9 /* Assets.xcassets */; };
@@ -33,6 +53,26 @@
 /* Begin PBXFileReference section */
 		884EBE58272B302A004AD8DE /* CarInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarInfo.swift; sourceTree = "<group>"; };
 		884EBE5A272B3201004AD8DE /* ClassData_Solution.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassData_Solution.swift; sourceTree = "<group>"; };
+		88B63ADF272C1348001BF14D /* StateObject_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateObject_Intro.swift; sourceTree = "<group>"; };
+		88B63AE1272C1358001BF14D /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		88B63AE4272C1818001BF14D /* StateObject_WithPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateObject_WithPicker.swift; sourceTree = "<group>"; };
+		88B63AE6272C19D0001BF14D /* CarChoicesModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarChoicesModel.swift; sourceTree = "<group>"; };
+		88B63AEA272C1FFD001BF14D /* WeatherForecast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherForecast.swift; sourceTree = "<group>"; };
+		88B63AEC272C2065001BF14D /* ObservableObject_WithSubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservableObject_WithSubView.swift; sourceTree = "<group>"; };
+		88B63AEE272C2182001BF14D /* ForecastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastView.swift; sourceTree = "<group>"; };
+		88B63AF1272C2F78001BF14D /* AppStorage_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorage_Intro.swift; sourceTree = "<group>"; };
+		88B63AF3272C3234001BF14D /* AppStorage_Edit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorage_Edit.swift; sourceTree = "<group>"; };
+		88B63AF5272C3623001BF14D /* AppStorage_WhatCanBeStored.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorage_WhatCanBeStored.swift; sourceTree = "<group>"; };
+		88B63AF8272C386A001BF14D /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		88B63AFA272C38E2001BF14D /* AppStorage_StoreStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorage_StoreStruct.swift; sourceTree = "<group>"; };
+		88B63AFD272C40DE001BF14D /* SceneStorage_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneStorage_Intro.swift; sourceTree = "<group>"; };
+		88B63AFF272C4157001BF14D /* SavingData_DataEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavingData_DataEntry.swift; sourceTree = "<group>"; };
+		88B63B02272C60A7001BF14D /* NameInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameInfo.swift; sourceTree = "<group>"; };
+		88B63B04272C60BA001BF14D /* EnvironmentObject_Intro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObject_Intro.swift; sourceTree = "<group>"; };
+		88B63B06272C619B001BF14D /* TabViewOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewOne.swift; sourceTree = "<group>"; };
+		88B63B08272C61A6001BF14D /* TabViewTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewTwo.swift; sourceTree = "<group>"; };
+		88B63B0C272C6940001BF14D /* EnvironmentObject_GloballyAccessible.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObject_GloballyAccessible.swift; sourceTree = "<group>"; };
+		88B63B0E272C694F001BF14D /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 		88D605CB272ACBC1003D5FE9 /* WorkingWithData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorkingWithData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88D605CE272ACBC1003D5FE9 /* WorkingWithDataApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkingWithDataApp.swift; sourceTree = "<group>"; };
 		88D605D0272ACBC1003D5FE9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +115,101 @@
 			path = ObservableObject;
 			sourceTree = "<group>";
 		};
+		88B63ADE272C1328001BF14D /* StateObject */ = {
+			isa = PBXGroup;
+			children = (
+				88B63AE8272C1A42001BF14D /* Intro */,
+				88B63AE3272C1810001BF14D /* WithPickers */,
+			);
+			path = StateObject;
+			sourceTree = "<group>";
+		};
+		88B63AE3272C1810001BF14D /* WithPickers */ = {
+			isa = PBXGroup;
+			children = (
+				88B63AE4272C1818001BF14D /* StateObject_WithPicker.swift */,
+				88B63AE6272C19D0001BF14D /* CarChoicesModel.swift */,
+			);
+			path = WithPickers;
+			sourceTree = "<group>";
+		};
+		88B63AE8272C1A42001BF14D /* Intro */ = {
+			isa = PBXGroup;
+			children = (
+				88B63ADF272C1348001BF14D /* StateObject_Intro.swift */,
+				88B63AE1272C1358001BF14D /* Car.swift */,
+			);
+			path = Intro;
+			sourceTree = "<group>";
+		};
+		88B63AE9272C1FBA001BF14D /* ObservedObject */ = {
+			isa = PBXGroup;
+			children = (
+				88B63AEA272C1FFD001BF14D /* WeatherForecast.swift */,
+				88B63AEC272C2065001BF14D /* ObservableObject_WithSubView.swift */,
+				88B63AEE272C2182001BF14D /* ForecastView.swift */,
+			);
+			path = ObservedObject;
+			sourceTree = "<group>";
+		};
+		88B63AF0272C2F55001BF14D /* AppStorage */ = {
+			isa = PBXGroup;
+			children = (
+				88B63AF1272C2F78001BF14D /* AppStorage_Intro.swift */,
+				88B63AF3272C3234001BF14D /* AppStorage_Edit.swift */,
+				88B63AF5272C3623001BF14D /* AppStorage_WhatCanBeStored.swift */,
+				88B63AF7272C3857001BF14D /* StoringStruct */,
+			);
+			path = AppStorage;
+			sourceTree = "<group>";
+		};
+		88B63AF7272C3857001BF14D /* StoringStruct */ = {
+			isa = PBXGroup;
+			children = (
+				88B63AF8272C386A001BF14D /* User.swift */,
+				88B63AFA272C38E2001BF14D /* AppStorage_StoreStruct.swift */,
+			);
+			path = StoringStruct;
+			sourceTree = "<group>";
+		};
+		88B63AFC272C40B0001BF14D /* SceneStorage */ = {
+			isa = PBXGroup;
+			children = (
+				88B63AFD272C40DE001BF14D /* SceneStorage_Intro.swift */,
+				88B63AFF272C4157001BF14D /* SavingData_DataEntry.swift */,
+			);
+			path = SceneStorage;
+			sourceTree = "<group>";
+		};
+		88B63B01272C6091001BF14D /* EnvironmentObject */ = {
+			isa = PBXGroup;
+			children = (
+				88B63B0B272C66A9001BF14D /* GloballyAccessible */,
+				88B63B0A272C6691001BF14D /* Intro */,
+			);
+			path = EnvironmentObject;
+			sourceTree = "<group>";
+		};
+		88B63B0A272C6691001BF14D /* Intro */ = {
+			isa = PBXGroup;
+			children = (
+				88B63B02272C60A7001BF14D /* NameInfo.swift */,
+				88B63B04272C60BA001BF14D /* EnvironmentObject_Intro.swift */,
+				88B63B06272C619B001BF14D /* TabViewOne.swift */,
+				88B63B08272C61A6001BF14D /* TabViewTwo.swift */,
+			);
+			path = Intro;
+			sourceTree = "<group>";
+		};
+		88B63B0B272C66A9001BF14D /* GloballyAccessible */ = {
+			isa = PBXGroup;
+			children = (
+				88B63B0C272C6940001BF14D /* EnvironmentObject_GloballyAccessible.swift */,
+				88B63B0E272C694F001BF14D /* UserModel.swift */,
+			);
+			path = GloballyAccessible;
+			sourceTree = "<group>";
+		};
 		88D605C2272ACBC1003D5FE9 = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +229,11 @@
 		88D605CD272ACBC1003D5FE9 /* WorkingWithData */ = {
 			isa = PBXGroup;
 			children = (
+				88B63B01272C6091001BF14D /* EnvironmentObject */,
+				88B63AFC272C40B0001BF14D /* SceneStorage */,
+				88B63AF0272C2F55001BF14D /* AppStorage */,
+				88B63AE9272C1FBA001BF14D /* ObservedObject */,
+				88B63ADE272C1328001BF14D /* StateObject */,
 				884EBE57272B3020004AD8DE /* ObservableObject */,
 				88D605F0272B040E003D5FE9 /* Binding */,
 				88D605E5272ADA65003D5FE9 /* State */,
@@ -269,23 +409,43 @@
 			buildActionMask = 2147483647;
 			files = (
 				88D605FE272B121C003D5FE9 /* Person.swift in Sources */,
+				88B63AFE272C40DE001BF14D /* SceneStorage_Intro.swift in Sources */,
+				88B63AE0272C1348001BF14D /* StateObject_Intro.swift in Sources */,
+				88B63B07272C619B001BF14D /* TabViewOne.swift in Sources */,
 				88D605D1272ACBC1003D5FE9 /* ContentView.swift in Sources */,
 				88D605EF272AF457003D5FE9 /* StateWithClassData.swift in Sources */,
 				88D605F9272B0DDD003D5FE9 /* ExtractingSubviews_Solution.swift in Sources */,
+				88B63AE2272C1358001BF14D /* Car.swift in Sources */,
+				88B63AF2272C2F78001BF14D /* AppStorage_Intro.swift in Sources */,
 				884EBE5B272B3201004AD8DE /* ClassData_Solution.swift in Sources */,
+				88B63AF9272C386A001BF14D /* User.swift in Sources */,
 				88D605E2272ACC47003D5FE9 /* HeaderView.swift in Sources */,
 				88D605F7272B0C1E003D5FE9 /* EditNameView.swift in Sources */,
 				88D605FC272B120D003D5FE9 /* BindingWithList.swift in Sources */,
+				88B63B00272C4157001BF14D /* SavingData_DataEntry.swift in Sources */,
 				88D60600272B12D1003D5FE9 /* EditPersonView.swift in Sources */,
+				88B63AED272C2065001BF14D /* ObservableObject_WithSubView.swift in Sources */,
+				88B63B03272C60A7001BF14D /* NameInfo.swift in Sources */,
 				88D605E7272ADA76003D5FE9 /* StructVariables.swift in Sources */,
+				88B63AF6272C3623001BF14D /* AppStorage_WhatCanBeStored.swift in Sources */,
+				88B63B0D272C6940001BF14D /* EnvironmentObject_GloballyAccessible.swift in Sources */,
 				88D605F2272B044D003D5FE9 /* ExtractingSubviews_Befores.swift in Sources */,
+				88B63AFB272C38E2001BF14D /* AppStorage_StoreStruct.swift in Sources */,
+				88B63B09272C61A6001BF14D /* TabViewTwo.swift in Sources */,
+				88B63AF4272C3234001BF14D /* AppStorage_Edit.swift in Sources */,
 				88D605E9272AE3C2003D5FE9 /* StateWithTextField.swift in Sources */,
 				88D605EB272AEDC7003D5FE9 /* StateWithStructData.swift in Sources */,
+				88B63AE5272C1818001BF14D /* StateObject_WithPicker.swift in Sources */,
+				88B63B05272C60BA001BF14D /* EnvironmentObject_Intro.swift in Sources */,
+				88B63AEB272C1FFD001BF14D /* WeatherForecast.swift in Sources */,
 				88D605CF272ACBC1003D5FE9 /* WorkingWithDataApp.swift in Sources */,
+				88B63B0F272C694F001BF14D /* UserModel.swift in Sources */,
+				88B63AEF272C2182001BF14D /* ForecastView.swift in Sources */,
 				88D605ED272AEFDA003D5FE9 /* StateBindingWithOtherViews.swift in Sources */,
 				88D60605272B1A7D003D5FE9 /* BindingWithLazyVStack.swift in Sources */,
 				88D605E4272ACC51003D5FE9 /* DescriptionView.swift in Sources */,
 				884EBE59272B302A004AD8DE /* CarInfo.swift in Sources */,
+				88B63AE7272C19D0001BF14D /* CarChoicesModel.swift in Sources */,
 				88D605F5272B047B003D5FE9 /* NameData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
